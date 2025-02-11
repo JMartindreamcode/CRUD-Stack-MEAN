@@ -8,4 +8,5 @@ background: linear-gradient(to right, #1F1C18, #8E0E00); /* W3C, IE 10+/ Edge, F
 
 .titulo {
     font-size: 1.8rem;
+    font-family: "Montserrat", sans-serif;
 }
